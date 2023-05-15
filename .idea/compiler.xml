@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="take-home-webdriver-test" />
+        <module name="selenium-project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="selenium-project" target="11" />
       <module name="take-home-webdriver-test" target="11" />
     </bytecodeTargetLevel>
   </component>
