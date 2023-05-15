@@ -20,6 +20,7 @@ public class DynamicLoadingStepDef extends TestBase {
     @Test
     public void dynamicLoading(){
 
+
         Driver.getDriver().get("http://localhost:7080/dynamic_loading/2");
 
         dynamicLoadigPage.startButton.click();
