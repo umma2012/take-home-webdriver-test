@@ -19,6 +19,7 @@ public class NewWindowStepDef extends TestBase {
 
         openNewTabPage.link.click();
 
+
         for (String each: Driver.getDriver().getWindowHandles()){
             Driver.getDriver().switchTo().window(each);
         }
