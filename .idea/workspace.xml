@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="583eec1f-019b-4696-b85d-0241260e14de" name="Changes" comment="completed tasks" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Jelena" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PnhfffyJ2RNSh6AEMqtXPXHvPm" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jelena/IdeaProjects/take-home-webdriver-test&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.DynamicLoadingStepDef.dynamicLoading">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="take-home-webdriver-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="take-home-webdriver-test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicLoadingStepDef.dynamicLoading" type="TestNG" nameIsGenerated="true">
+      <module name="take-home-webdriver-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework.tests.DynamicLoadingStepDef" />
+      <option name="METHOD_NAME" value="dynamicLoading" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JS_alertStepDef.verifyConfirmButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="take-home-webdriver-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework.tests.JS_alertStepDef" />
+      <option name="METHOD_NAME" value="verifyConfirmButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JS_alertStepDef.verifyJSalertButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="take-home-webdriver-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework.tests.JS_alertStepDef" />
+      <option name="METHOD_NAME" value="verifyJSalertButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JS_alertStepDef.verifyPromptButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="take-home-webdriver-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework.tests.JS_alertStepDef" />
+      <option name="METHOD_NAME" value="verifyPromptButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JS_errorStepDef.verifyErrorMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="take-home-webdriver-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework.tests.JS_errorStepDef" />
+      <option name="METHOD_NAME" value="verifyErrorMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JS_errorStepDef.verifyErrorMessage" />
+        <item itemvalue="TestNG.JS_alertStepDef.verifyPromptButton" />
+        <item itemvalue="TestNG.JS_alertStepDef.verifyJSalertButton" />
+        <item itemvalue="TestNG.JS_alertStepDef.verifyConfirmButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583eec1f-019b-4696-b85d-0241260e14de" name="Changes" comment="" />
+      <created>1684098857500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684098857500</updated>
+      <workItem from="1684098858883" duration="30722000" />
+      <workItem from="1684175740369" duration="88000" />
+      <workItem from="1684175832274" duration="122000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed tasks">
+      <created>1684172948524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684172948524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed tasks" />
+  </component>
+</project>
